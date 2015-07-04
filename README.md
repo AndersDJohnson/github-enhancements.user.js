@@ -2,4 +2,4 @@
 Enhance GitHub with user script.
 
 ## Features
-* Linkify source and target branches on pull requests.
+* Linkify branches in commit messages, branch info bars, and source & target branches on pull requests.
